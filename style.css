@@ -13,7 +13,10 @@ input#inputFood {
     width: 300px;
 }
 #searchFood{
-    padding: 10px;
+    padding: 12px;
+    background-color: red;
+    border: 0;
+    color: white;
 }
 .FoodDiv{
     background-color: aqua;
