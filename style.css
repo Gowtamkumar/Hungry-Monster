@@ -1,12 +1,13 @@
+.searchOption{
+    margin-bottom: 10px;
+}
 main{
     text-align: center;
 }
 span{
     cursor: grab;
 }
-.searchOption{
-    margin-bottom: 10px;
-}
+
 input#inputFood {
     padding: 10px;
     width: 300px;
